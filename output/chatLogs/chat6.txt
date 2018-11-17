@@ -1,0 +1,27 @@
+New OttoBot chat at 16:07.
+Under the male name: Pedro.
+With the subject: Math.
+----
+
+16:07 | Otto: Hi Pedro! I'm Otto, ask me anything about math
+16:07 | You: Hey
+16:07 | Otto: Hey!
+16:07 | You: What's up
+16:07 | Otto: Nothing much, I was just about to go upgrade my phone
+16:07 | You: why?
+16:07 | Otto: I don’t recall what I just sent you
+16:09 | You: Trigonometry
+16:09 | Otto: Please wait while I take a look in my hard drive
+16:09 | Otto: I've founds these 3 websites about Trigonometry
+ Trigonometry - Wikipedia: 
+https://en.wikipedia.org/wiki/Trigonometry
+------------------------
+ Trigonometry | Khan Academy: 
+https://www.khanacademy.org/math/trigonometry
+------------------------
+ Trigonometry - Math is Fun: 
+https://www.mathsisfun.com/algebra/trigonometry.html
+------------------------
+
+16:09 | You: What time is it
+16:09 | Otto: 16:09

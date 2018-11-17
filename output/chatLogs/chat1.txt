@@ -1,0 +1,8 @@
+New OttoBot chat at 10:04.
+Under the male name: Pedro.
+With the subject: Math.
+----
+
+10:04 | Otto: Hi Pedro! I'm Otto, ask me anything about math
+10:04 | You: Thermodynamics
+10:04 | Otto: Please wait while I take a look in my hard drive

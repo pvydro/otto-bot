@@ -1,0 +1,23 @@
+New OttoBot chat at 10:11.
+Under the male name: Perfort.
+With the subject: Math.
+----
+
+10:11 | Otto: Hi Perfort! I'm Otto, ask me anything about math
+10:11 | You: Trig
+10:11 | Otto: Please wait while I take a look in my hard drive
+10:11 | Otto: I've founds these 3 websites about Trig
+ Trigonometry - Wikipedia: 
+https://en.wikipedia.org/wiki/Trigonometry
+------------------------
+ Trigonometry | Khan Academy: 
+https://www.khanacademy.org/math/trigonometry
+------------------------
+ Trigonometry - Math is Fun: 
+http://www.mathsisfun.com/algebra/trigonometry.html
+------------------------
+
+10:11 | You: 
+10:11 | Otto: I don’t understand.
+10:11 | You: 
+10:11 | Otto: I don’t understand.
