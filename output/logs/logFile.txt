@@ -1,46 +1,47 @@
-New OttoBot run at 03/27/17 16:07:06.
+New OttoBot run at 11/17/18 14:59:21.
 Made by Pedro "Flizzet" Dutra
 ----
 
-16:07:06 | LauncherThread class created | 68ms | 
-16:07:06 | Launcher thread started | 1ms | 
-16:07:06 | Main method success | 0ms | 
-16:07:06 | LauncherWindow class created | 98ms | 
-16:07:06 | Launcher window created | 12ms | 
-16:07:06 | LauncherBuilder class created | 232ms | 
-16:07:09 | Launcher elements built | 2345ms | 
-16:07:16 | Launcher thread stopped | 7005ms | 
-16:07:16 | ** Launching OttoBot ** | 1ms | 
-16:07:16 | MainThread class created | 23ms | 
-16:07:16 | Main thread started | 1ms | 
-16:07:16 | Loading rules | 12ms | 
-16:07:16 | College.txt rules set up | 70ms | 
-16:07:16 | Dark.txt rules set up | 4ms | 
-16:07:16 | Date.txt rules set up | 1ms | 
-16:07:16 | Explain.txt rules set up | 1ms | 
-16:07:16 | Gender.txt rules set up | 0ms | 
-16:07:16 | Greetings.txt rules set up | 0ms | 
-16:07:16 | Mathsearches.txt rules set up | 5ms | 
-16:07:16 | Phone.txt rules set up | 1ms | 
-16:07:16 | Sarcasm.txt rules set up | 1ms | 
-16:07:16 | Sassy.txt rules set up | 0ms | 
-16:07:16 | Sorry.txt rules set up | 1ms | 
-16:07:16 | Stop.txt rules set up | 0ms | 
-16:07:16 | Thanks.txt rules set up | 0ms | 
-16:07:16 | Time.txt rules set up | 1ms | 
-16:07:16 | Typo.txt rules set up | 0ms | 
-16:07:16 | Whatsup.txt rules set up | 1ms | 
-16:07:16 | Whomade.txt rules set up | 0ms | 
-16:07:16 | Why.txt rules set up | 1ms | 
-16:07:16 | Rules loaded | 0ms | 
-16:07:16 | Loading responses | 1ms | 
-16:07:16 | Responses loaded | 29ms | 
-16:07:16 | ChatWindow class created | 1ms | 
-16:07:16 | Chat window created | 0ms | 
-16:07:16 | ChatGuiBuilder class created | 13ms | 
-16:07:16 | ChatGui elements built | 124ms | 
-16:07:16 | New chat started at /Users/flizzet/Documents/IntelliJWorkspace/Ottobot/output/chatLogs/chat6.txt | 116ms | 
-16:11:33 | Closing application | 256418ms | 
-16:11:33 | Launcher thread stopped | 0ms | 
-16:11:33 | Main thread stopped | 0ms | 
-16:11:33 | Application closed | 0ms | 
+14:59:21 | LauncherThread class created | 78ms | 
+14:59:21 | Launcher thread started | 0ms | 
+14:59:21 | Main method success | 0ms | 
+14:59:21 | LauncherWindow class created | 135ms | 
+14:59:21 | Launcher window created | 1ms | 
+14:59:21 | LauncherBuilder class created | 141ms | 
+14:59:23 | Launcher elements built | 1296ms | 
+14:59:27 | Launcher thread stopped | 4020ms | 
+14:59:27 | ** Launching OttoBot ** | 0ms | 
+14:59:27 | MainThread class created | 0ms | 
+14:59:27 | Main thread started | 0ms | 
+14:59:27 | Loading rules | 2ms | 
+14:59:27 | Sorry.txt rules set up | 23ms | 
+14:59:27 | Why.txt rules set up | 1ms | 
+14:59:27 | .DS_Store rules set up | 6ms | 
+14:59:27 | Greetings.txt rules set up | 1ms | 
+14:59:27 | Explain.txt rules set up | 1ms | 
+14:59:27 | Stop.txt rules set up | 1ms | 
+14:59:27 | Time.txt rules set up | 0ms | 
+14:59:27 | Sassy.txt rules set up | 1ms | 
+14:59:27 | Thanks.txt rules set up | 1ms | 
+14:59:27 | Typo.txt rules set up | 0ms | 
+14:59:27 | Gender.txt rules set up | 0ms | 
+14:59:27 | Mathsearches.txt rules set up | 3ms | 
+14:59:27 | Date.txt rules set up | 0ms | 
+14:59:27 | College.txt rules set up | 0ms | 
+14:59:27 | Sarcasm.txt rules set up | 1ms | 
+14:59:27 | Phone.txt rules set up | 1ms | 
+14:59:27 | Whomade.txt rules set up | 0ms | 
+14:59:27 | Whatsup.txt rules set up | 1ms | 
+14:59:27 | Rules loaded | 0ms | 
+14:59:27 | Loading responses | 1ms | 
+14:59:27 | Responses loaded | 10ms | 
+14:59:27 | ChatWindow class created | 1ms | 
+14:59:27 | Chat window created | 0ms | 
+14:59:27 | ChatGuiBuilder class created | 0ms | 
+14:59:27 | ChatGui elements built | 75ms | 
+14:59:27 | New chat started at /Users/flizzet/Documents/JavaSpace/OttoBot/output/chatLogs/chat7.txt | 26ms | 
+14:59:48 | Dontunderstand rules set up | 20661ms | 
+14:59:56 | Closing application | 8331ms | 
+14:59:56 | Launcher thread stopped | 0ms | 
+14:59:56 | Main thread stopped | 0ms | 
+14:59:56 | Application closed | 0ms | 

@@ -1,0 +1,18 @@
+New OttoBot chat at 14:59.
+Under the male name: Pedro.
+With the subject: Math.
+----
+
+14:59 | Otto: Hi Pedro! I'm Otto, ask me anything about math
+14:59 | You: Hello
+14:59 | Otto: Hey!
+14:59 | You: How are you
+14:59 | Otto: Hi!
+14:59 | You: How you doping
+14:59 | Otto: Hi!
+14:59 | You: What's up
+14:59 | Otto: Nothing much, just doing some AP Stats homework
+14:59 | You: Why
+14:59 | Otto: I don’t remember what I just said to be quite honest
+14:59 | You: What's a significant figure
+14:59 | Otto: My programmer didn’t put enough effort into this project for me to decipher what you’re trying to tell me
